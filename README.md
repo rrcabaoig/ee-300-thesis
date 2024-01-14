@@ -6,6 +6,6 @@
 `code_dispatch_ds.m`: performs a Lagrangian-based/conventional AC OPF for economic dispatch at the distribution system (DS) level<br>
 `code_dispatch_mg.m`: performs a Lagrangian-based/conventional AC OPF for economic dispatch at the microgrid (MG) level<br>
 `version19.ipynb` (*rename* - version19, initial release): facilitates the training of the artificial neural network-multilayer perception (ANN-MLP) model for the DS-level learning-based AC OPF<br>
-`model.h5` (version19, initial release): contains the resulting ANN-MLP model for the simulation testbed<br><br>
+`model.h5` (version19, initial release): contains the resulting ANN-MLP model of the DS-level learning-based AC OPF for the simulation testbed<br><br>
 
 Note: The codes/scripts and MATPOWER cases are only applicable to the selected simulation testbed. For other multi-microgrid systems, please change the system parameters and ANN-MLP architecture.
