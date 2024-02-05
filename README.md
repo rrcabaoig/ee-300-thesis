@@ -8,4 +8,4 @@
 `version19.ipynb` (*rename* - version19, initial release): facilitates the training of the artificial neural network-multilayer perceptron (ANN-MLP) model for the DS-level learning-based AC OPF<br>
 `model.h5` (version19, initial release): contains the resulting ANN-MLP model of the DS-level learning-based AC OPF for the simulation testbed<br><br>
 
-Note: The codes/scripts and MATPOWER cases are only applicable to the selected simulation testbed. For other multi-microgrid systems, please change the system parameters and ANN-MLP architecture.
+Note: The codes/scripts and MATPOWER cases are only applicable to the selected simulation testbed. For other multi-microgrid systems, please adjust the system parameters and ANN-MLP architecture.
